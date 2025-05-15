@@ -1,0 +1,14 @@
+{
+  "name": "aria2-ariang",
+  "version": "1.0.0",
+  "description": "Run Aria2 with AriaNg on Render using LocalTunnel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aria2": "^5.0.1",
+    "express": "^4.18.2",
+    "localtunnel": "^2.0.2"
+  }
+}
